@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "0x00 Meetup BH"
+date:   2016-12-01 20:00:00 -0300
+categories: meetup
+---
+
+Bem vindo ao 0x0d1a, um espaço para discussão relacionados a tecnologia
+e segurança da informação. Nosso primeiro meetup contará com as
+seguintes apresentações:
+
+```
+Ameaças Internas
+João Paulo Souza Reis
+```
+
+```
+Criptografia moderna e como ownar?
+Gabriel Garcia
+```
+
+O meetup ocorrerá no dia 01/12/2016 às 20:00 na Take, Rua Paraguassú 83 - Prado.
+Para se registrar basta se cadastrar no seguinte
+<a href="https://www.meetup.com/White-Hat-BH/events/235571653/" target="_blank">link</a>.
