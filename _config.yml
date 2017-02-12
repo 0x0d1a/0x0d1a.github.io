@@ -17,9 +17,11 @@ name: "0x0d1a"
 title: "0x0d1a"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Grupo para discutir assuntos relacionados à Segurança da Informação em BH.
+  Somos um grupo formado com o objetivo de discutir e praticar assuntos relacionados à Segurança da Informação, hacking, CTFs e tecnologia em BH.
+  Queremos criar um ambiente mais favorável para todos, com qualquer nível de conhecimento, poder ter acesso à esse tipo de informção de maneira fácil o ano inteiro.
+  Queremos fomentar a integração das pessoas em BH e tornar essa área da TI mais forte!
   Para participar entre no nosso <a href="https://groups.google.com/forum/#!forum/0x0d1a"
-  target="_blank">grupo de email</a>
+  target="_blank">grupo de email</a> e do <a href="https://t.me/x0d1a" target="_blank">Telegram</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "0x01 Meetup BH"
+date:   2017-02-12 17:00:00 -0300
+categories: meetup
+---
+
+Depois de alguns contratempos, o 0x0d1a está de volta!! E o lema é "Não deixa o hacking morrer! Não deixa o hacking acabar!".
+
+Por isso temos o orgulho de anunciar o próximo encontro e dessa vez com algo mais prático!Bora ver a galera botando mão na massa e faremos uma oficina de CTF.
+
+A temporada 2017 de CTFs já foi aberta e queremos colocar todos os novatos para começar a jogar um CTF com apoio dos mais experientes e a partir desse encontro incentivar maior participação da galera, quem sabe até a formação de times em BH.
+
+Infelizmente não temos equipamentos para emprestar pra galera, então precisamos que quem puder leve seu notebook. 
+
+O encontro ocorrerá no dia 22/02/2017 às 20:00 na Take, Rua Paraguassú 83 - Prado.
+Para se registrar basta se cadastrar no seguinte
+<a href="https://www.sympla.com.br/0x0d1a__117853" target="_blank">link</a>.
